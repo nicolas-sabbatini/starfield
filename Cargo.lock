@@ -232,9 +232,9 @@ dependencies = [
 
 [[package]]
 name = "macroquad-canvas-2d"
-version = "0.2.1"
+version = "0.2.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "5d958e84ed87d2f116215fff1857c7d71d24dfcbd465631e7f3cd2236b9bc270"
+checksum = "2a66337ef0cc89ccbbea7e5a6b78d28cd6b9591e740f2d353320a9b27737c34f"
 dependencies = [
  "macroquad",
 ]
